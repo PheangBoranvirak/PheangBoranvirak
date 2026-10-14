@@ -1,14 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Virak 👋
+# Hey there, I'm Pheang Boranvirak 👋
 
-### 💻 Aspiring Software Developer · 🎨 Graphic Design Enthusiast · 🖥️ Computer Technology
-
-University student from **Cambodia 🇰🇭**, passionate about building useful software, designing clean interfaces, and exploring technology.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PheangBoranvirak&style=for-the-badge&color=0e75b6)](https://github.com/PheangBoranvirak)
-[![GitHub followers](https://img.shields.io/github/followers/PheangBoranvirak?style=for-the-badge&logo=github&label=Followers)](https://github.com/PheangBoranvirak?tab=followers)
-
+### 💻 Aspiring Software Developer · 🎨 Graphic Design · 🖥️ Computer Technology
 </div>
 
 ---
@@ -101,14 +95,7 @@ University student from **Cambodia 🇰🇭**, passionate about building useful 
 
 ---
 
-## 🤝 Let's Connect
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PheangBoranvirak)
-
-<br/>
-
-### ✨ “Learn something new. Build something useful. Improve every day.”
+### ✨ “Try to learn something new. Improve every day.”
 
 </div>
