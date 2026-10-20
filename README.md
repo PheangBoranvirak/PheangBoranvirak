@@ -7,15 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 University student growing my programming and technology skills.
-- 👨‍💻 Working toward becoming a **software developer** and learning more programming languages.
-- 🧠 I learn by building projects, solving problems, and practicing.
-- 🎨 Interested in graphic design, UI styling, and user-friendly layouts.
-- 🖥️ Enjoy computers, troubleshooting, and PC hardware.
-- 🎮 I also enjoy games, movies, and creative projects.
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
