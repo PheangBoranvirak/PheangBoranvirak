@@ -4,9 +4,6 @@
 
 ### Aspiring Software Developer · Graphic Design 
 </div>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
