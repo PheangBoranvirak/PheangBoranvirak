@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Pheang Boranvirak
+# Pheang Boranvirak
 
 ### Aspiring Software Developer · Graphic Design 
 </div>
@@ -56,9 +56,5 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=PheangBoranvirak&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-### ✨ “Try to learn something new. Improve every day.”
 
 </div>
