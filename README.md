@@ -2,7 +2,7 @@
 
 # Pheang Boranvirak
 
-### Aspiring Software Developer · Graphic Design 
+### Software Developer · Graphic Design 
 </div>
 
 ---
